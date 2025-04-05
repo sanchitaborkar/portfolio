@@ -1,7 +1,14 @@
-**Sanchita Borkar**
+## **Sanchita Borkar**
 
 **Email:** sanchitaborkar412@gmail.com
 
-**Carrier Objective | Software Developer**
+**LinkedIn Profile:** [https://www.linkedin.com/in/sanchita-borkar-381893359/](https://www.linkedin.com/in/sanchita-borkar-381893359/)
 
-I am a passionate front-end developer with hands-on experience from internships and projects like a Bank Management System and Agri Shop Management System. Skilled in building functional UIs using **HTML**, **CSS**, **JavaScript**, and **ReactJS**, with a grasp of the development process and a keen eagerness to learn and grow.
+**Career Objective | Software Developer**
+
+Passionate Frontend Developer with a background in Computer Applications and practical experience gained through internships and projects such as a Bank Management System and Agri Shop Management System. Proficient in creating functional user interfaces using HTML, CSS, JavaScript, and ReactJS, with a solid understanding of the development process and a strong desire to continuously learn and grow.
+
+**Skills:**
+- Software Development Technologies: ReactJS, HTML/CSS, JavaScript, GitHub.
+- Backend Integration with front-end
+- Front-end and UI/UX design implementation
